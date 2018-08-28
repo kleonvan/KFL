@@ -1,0 +1,64 @@
+Baltimore Blue Claws,BAL
+END_PLAYERS
+Cincinnati Lions,CIN
+END_PLAYERS
+Louisville Redbirds,LOU
+END_PLAYERS
+Pittsburgh Liberty,PIT
+END_PLAYERS
+Buffalo Blizzard,BUF
+END_PLAYERS
+Miami Landsharks,MIA
+END_PLAYERS
+New England Minutemen,NE
+END_PLAYERS
+New York Steamers,NYS
+END_PLAYERS
+Houston Tigers,HOU
+END_PLAYERS
+Indianapolis Axels,IND
+END_PLAYERS
+Jacksonville Crocs,JAX
+END_PLAYERS
+Tennessee Mountaineers,TEN
+END_PLAYERS
+Denver Avalanche,DEN
+END_PLAYERS
+Kansas City Beavers,KC
+END_PLAYERS
+Oakland Renegades,OAK
+END_PLAYERS
+Portland Hipsters,POR
+END_PLAYERS
+Chicago Twisters,CHI
+END_PLAYERS
+Detroit Dragons,DET
+END_PLAYERS
+Green Bay Cheesers,GB
+END_PLAYERS
+Minnesota Sailors,MIN
+END_PLAYERS
+Dallas Desperados,DAL
+END_PLAYERS
+New Jersey Guidos,NYG
+END_PLAYERS
+Philadelphia Brawlers,PHI
+END_PLAYERS
+Washington Sentinels,WAS
+END_PLAYERS
+Atlanta Trapstars,ATL
+END_PLAYERS
+Charlotte Kings,CHA
+END_PLAYERS
+New Orleans Crawdads,NO
+END_PLAYERS
+Tampa Bay Constrictors,TB
+END_PLAYERS
+Phoenix Firebirds,PHX
+END_PLAYERS
+Hollywood Knights,HWD
+END_PLAYERS
+Seattle Reign,SEA
+END_PLAYERS
+San Francisco Gold Rush,SF
+END_PLAYERS
